@@ -1,0 +1,2 @@
+# friendsGroup
+Welcome to friendsgroup
